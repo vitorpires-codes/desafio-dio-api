@@ -52,6 +52,6 @@ Conceitos usados:
 - **Node.js**
 - **Fastify** (servidor HTTP)
 - **@fastify/cors** (liberação de CORS)
-- **TypeScript** (ou JavaScript puro, dependendo da versão)
+- **TypeScript**
 
 ---
